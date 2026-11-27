@@ -1,0 +1,29 @@
+﻿{
+    "Author":  "芥末",
+    "Name":  "装备收集图鉴",
+    "InternalName":  "GlamourBook",
+    "Description":  "浏览全部可幻化装备，显示「背包 / 投影台 / 雇员 / 收藏柜」的拥有情况。数据自动缓存，无需每次打开投影台。",
+    "Punchline":  "可搜索的装备收集图鉴",
+    "Changelog":  "",
+    "Tags":  [
+                 "glamour",
+                 "gear",
+                 "ui"
+             ],
+    "CategoryTags":  [
+
+                     ],
+    "Version":  "1.0.0.0",
+    "RepoUrl":  "",
+    "IsHide":  false,
+    "IsTestingExclusive":  false,
+    "DownloadLinkInstall":  "https://showshoway1.github.io/glamourbook-repo/GlamourBook-v1.0.0.0.zip",
+    "DownloadLinkUpdate":  "https://showshoway1.github.io/glamourbook-repo/GlamourBook-v1.0.0.0.zip",
+    "DownloadLinkTesting":  "https://showshoway1.github.io/glamourbook-repo/GlamourBook-v1.0.0.0.zip",
+    "DalamudApiLevel":  15,
+    "LastUpdate":  1795771631,
+    "LoadRequiredState":  0,
+    "LoadSync":  false,
+    "LoadPriority":  0,
+    "CanUnloadAsync":  false
+}
