@@ -14,7 +14,7 @@ FFXIV Dalamud 插件：可搜索的装备收集图鉴，一站式查看装备来
 ## 安装
 
 在 Dalamud 设置 → 插件仓库中，添加以下地址：
-https://showshoway1.github.io/glamourbook-repo/pluginmaster.json
+https://showshowway1.github.io/glamourbook-repo/pluginmaster.json
 
 保存后打开插件列表，搜索「装备收集图鉴」并安装。
 
