@@ -1,4 +1,4 @@
-﻿{
+{
     "Author":  "芥末",
     "Name":  "装备收集图鉴",
     "InternalName":  "GlamourBook",
@@ -21,7 +21,7 @@
     "DownloadLinkUpdate":  "https://showshowway1.github.io/glamourbook-repo/GlamourBook-v1.0.0.0.zip",
     "DownloadLinkTesting":  "https://showshowway1.github.io/glamourbook-repo/GlamourBook-v1.0.0.0.zip",
     "DalamudApiLevel":  15,
-    "LastUpdate":  1795772714,
+    "LastUpdate":  1795772912,
     "LoadRequiredState":  0,
     "LoadSync":  false,
     "LoadPriority":  0,
